@@ -556,7 +556,8 @@
 // entity 1
 {
 "classname" "weapon_rocketlauncher"
-"origin" "432 -464 0"
+"origin" "928 -560 96"
+"angle" "90"
 }
 // entity 2
 {
