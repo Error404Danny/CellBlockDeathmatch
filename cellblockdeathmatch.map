@@ -556,7 +556,7 @@
 // entity 1
 {
 "classname" "weapon_rocketlauncher"
-"origin" "928 -560 96"
+"origin" "928 -560 112"
 "angle" "90"
 }
 // entity 2
@@ -1217,4 +1217,228 @@
 "classname" "info_player_deathmatch"
 "origin" "64 -976 216"
 "angle" "1.0"
+}
+// entity 22
+{
+"classname" "weapon_supershotgun"
+"origin" "1616 -540 4"
+"angle" "91"
+}
+// entity 23
+{
+"classname" "weapon_supernailgun"
+"origin" "1024 -48 0"
+}
+// entity 24
+{
+"classname" "weapon_nailgun"
+"origin" "896 -1024 0"
+}
+// entity 25
+{
+"classname" "item_health"
+"origin" "880 -576 0"
+}
+// entity 26
+{
+"classname" "item_health"
+"origin" "1264 -768 0"
+}
+// entity 27
+{
+"classname" "item_health"
+"origin" "464 -576 0"
+}
+// entity 28
+{
+"classname" "item_shells"
+"origin" "896 -480 0"
+}
+// entity 29
+{
+"classname" "item_rockets"
+"origin" "768 -560 0"
+}
+// entity 30
+{
+"classname" "item_spikes"
+"origin" "1056 -576 0"
+}
+// entity 31
+{
+"classname" "item_shells"
+"origin" "896 -672 0"
+}
+// entity 32
+{
+"classname" "item_health"
+"origin" "912 -736 112"
+}
+// entity 33
+{
+"classname" "item_health"
+"origin" "912 -416 112"
+}
+// entity 34
+{
+"classname" "item_shells"
+"origin" "1488 -560 0"
+}
+// entity 35
+{
+"classname" "item_spikes"
+"origin" "992 -1040 0"
+}
+// entity 36
+{
+"classname" "weapon_supershotgun"
+"origin" "944 -160 192"
+}
+// entity 37
+{
+"classname" "weapon_supernailgun"
+"origin" "1520 -608 192"
+"angle" "90"
+}
+// entity 38
+{
+"classname" "weapon_lightning"
+"origin" "960 -944 192"
+}
+// entity 39
+{
+"classname" "weapon_supershotgun"
+"origin" "384 -560 192"
+"angle" "90"
+}
+// entity 40
+{
+"classname" "item_shells"
+"origin" "352 -784 192"
+}
+// entity 41
+{
+"classname" "item_health"
+"origin" "352 -672 192"
+}
+// entity 42
+{
+"classname" "item_cells"
+"origin" "800 -960 192"
+}
+// entity 43
+{
+"classname" "item_cells"
+"origin" "1120 -960 192"
+}
+// entity 44
+{
+"classname" "item_health"
+"origin" "672 -976 192"
+}
+// entity 45
+{
+"classname" "item_health"
+"origin" "1248 -960 192"
+}
+// entity 46
+{
+"classname" "item_spikes"
+"origin" "1520 -736 192"
+}
+// entity 47
+{
+"classname" "item_spikes"
+"origin" "1504 -496 192"
+}
+// entity 48
+{
+"classname" "item_health"
+"origin" "1520 -800 192"
+}
+// entity 49
+{
+"classname" "item_health"
+"origin" "1504 -368 192"
+}
+// entity 50
+{
+"classname" "item_health"
+"origin" "1296 -144 192"
+}
+// entity 51
+{
+"classname" "item_shells"
+"origin" "1104 -160 192"
+}
+// entity 52
+{
+"classname" "item_shells"
+"origin" "816 -160 192"
+}
+// entity 53
+{
+"classname" "item_health"
+"origin" "624 -176 192"
+}
+// entity 54
+{
+"classname" "item_shells"
+"origin" "336 -384 192"
+}
+// entity 55
+{
+"classname" "item_health"
+"origin" "336 -496 192"
+}
+// entity 56
+{
+"classname" "weapon_lightning"
+"origin" "304 -528 0"
+"angle" "90"
+}
+// entity 57
+{
+"classname" "item_cells"
+"origin" "256 -448 0"
+}
+// entity 58
+{
+"classname" "item_cells"
+"origin" "272 -640 0"
+}
+// entity 59
+{
+"classname" "item_rockets"
+"origin" "912 -656 112"
+}
+// entity 60
+{
+"classname" "item_rockets"
+"origin" "912 -496 112"
+}
+// entity 61
+{
+"classname" "item_spikes"
+"origin" "816 -1040 0"
+}
+// entity 62
+{
+"classname" "item_health"
+"origin" "1248 -416 0"
+}
+// entity 63
+{
+"classname" "item_health"
+"origin" "560 -432 0"
+}
+// entity 64
+{
+"classname" "item_health"
+"origin" "576 -784 0"
+}
+// entity 65
+{
+"classname" "item_health"
+"origin" "1296 -592 0"
 }
