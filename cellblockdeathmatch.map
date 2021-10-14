@@ -1227,7 +1227,7 @@
 // entity 23
 {
 "classname" "weapon_supernailgun"
-"origin" "1024 -48 0"
+"origin" "992 -48 0"
 }
 // entity 24
 {
@@ -1282,7 +1282,7 @@
 // entity 34
 {
 "classname" "item_shells"
-"origin" "1488 -560 0"
+"origin" "1600 -704 0"
 }
 // entity 35
 {
@@ -1441,4 +1441,49 @@
 {
 "classname" "item_health"
 "origin" "1296 -592 0"
+}
+// entity 66
+{
+"classname" "item_spikes"
+"origin" "864 -64 8"
+}
+// entity 67
+{
+"classname" "item_spikes"
+"origin" "1072 -64 8"
+}
+// entity 68
+{
+"classname" "item_health"
+"origin" "448 -80 0"
+}
+// entity 69
+{
+"classname" "item_shells"
+"origin" "224 -144 0"
+}
+// entity 70
+{
+"classname" "item_shells"
+"origin" "224 -976 0"
+}
+// entity 71
+{
+"classname" "item_shells"
+"origin" "1536 -976 0"
+}
+// entity 72
+{
+"classname" "item_shells"
+"origin" "1536 -144 0"
+}
+// entity 73
+{
+"classname" "item_shells"
+"origin" "1600 -416 0"
+}
+// entity 74
+{
+"classname" "item_health"
+"origin" "1520 -560 0"
 }
