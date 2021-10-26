@@ -23241,3 +23241,120 @@
 ( 715.8284271247459 -202 107.17157287525333 ) ( 715.828427124746 -201 107.17157287525333 ) ( 715.8284271247459 -202 106.17157287525333 ) wmet4_7 [ 4.114628135232441e-16 6.123233995736733e-17 -0.9999999999999998 19.17163 ] [ -7.216449660063518e-16 -0.9999999999999998 -6.123233995736766e-17 -10 ] 90 1 1
 }
 }
+// entity 325
+{
+"classname" "light"
+"origin" "1080 -1094 168"
+"light" "300"
+"wait" ".5"
+"delay" "0"
+"_color" "1 0 0"
+}
+// entity 326
+{
+"classname" "light"
+"origin" "1400 -1046 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 327
+{
+"classname" "light"
+"origin" "1496 -854 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 328
+{
+"classname" "light"
+"origin" "1400 -934 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 329
+{
+"classname" "light"
+"origin" "1640 -854 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 330
+{
+"classname" "light"
+"origin" "1640 -710 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 331
+{
+"classname" "light"
+"origin" "1496 -710 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 332
+{
+"classname" "light"
+"origin" "1640 -550 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 333
+{
+"classname" "light"
+"origin" "1496 -550 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 334
+{
+"classname" "light"
+"origin" "1640 -406 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 335
+{
+"classname" "light"
+"origin" "1496 -406 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 336
+{
+"classname" "light"
+"origin" "1640 -246 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
+// entity 337
+{
+"classname" "light"
+"origin" "1496 -246 168"
+"light" "300"
+"wait" ".5"
+"delay" "5"
+"_color" "1 1 1"
+}
